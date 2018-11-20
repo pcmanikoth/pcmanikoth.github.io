@@ -1,7 +1,10 @@
 ---
-title: First Page
+title: About Page
 date: 2018-11-20 05:26:00 Z
 position: 0
 ---
 
-Green juice intelligentsia wayfarers asymmetrical health goth freegan. Microdosing roof party af man bun live-edge. Helvetica tacos jianbing plaid shoreditch ennui vape fingerstache cronut. Four dollar toast knausgaard woke drinking vinegar gluten-free activated charcoal, man bun waistcoat freegan poke subway tile hell of. Fam everyday carry kickstarter man braid tousled messenger bag.
+# Lorem Ipsum Dolor
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
