@@ -14,4 +14,4 @@ defaults:
     type: posts
   values:
     Image: 
-theme: jekyll-theme-tactile
+remote_theme: y7kim/agency-jekyll-theme
