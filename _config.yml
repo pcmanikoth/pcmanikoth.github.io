@@ -14,4 +14,4 @@ defaults:
     type: posts
   values:
     Image: 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
