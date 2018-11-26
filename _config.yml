@@ -14,4 +14,4 @@ defaults:
     type: posts
   values:
     Image: 
-remote_theme: mmistakes/skinny-bones-jekyll
+remote_theme: rohanchandra/type-theme 
