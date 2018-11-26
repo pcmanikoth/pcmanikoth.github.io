@@ -15,3 +15,5 @@ defaults:
   values:
     Image: 
 remote_theme: y7kim/agency-jekyll-theme
+
+theme: jekyll-theme-cayman
