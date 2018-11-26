@@ -1,6 +1,7 @@
 ---
 title: Pcmanikoth.Github.Io
 timezone: UTC
+remote_theme: y7kim/agency-jekyll-theme
 collections:
   posts:
     title: Posts
