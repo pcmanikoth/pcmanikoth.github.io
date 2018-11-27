@@ -13,5 +13,4 @@ defaults:
     path: ''
     type: posts
   values:
-    Image: 
-remote_theme: mmistakes / minimal-mistakes
+    Image:
