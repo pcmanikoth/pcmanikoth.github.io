@@ -1,7 +1,0 @@
----
-title: Post Three
-date: 2018-11-20 05:56:00 Z
-Image: "/uploads/500.jpg"
----
-
-Content for Post Three.
