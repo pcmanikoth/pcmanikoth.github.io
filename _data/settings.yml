@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: A Web 3 Theme
-  site_tagline: An optional tagline for your website.
+  site_title: P. Colin Manikoth
+  site_tagline: My Awesome Website
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,7 +10,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Home'
       url: '/'
     - title: 'Projects'
       url: '/projects/'
