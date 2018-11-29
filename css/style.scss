@@ -147,3 +147,10 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 
 // - - - - - - - - - - Your Overrides
+.header__avatar {
+    border-radius: 0%;
+}
+
+.header {
+    padding-top: 20px;
+}
