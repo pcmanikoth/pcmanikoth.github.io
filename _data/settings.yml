@@ -20,18 +20,18 @@ menu_settings:
       url: '/contact'
 
 grid_settings:
-  grid_spacing: 10
+  grid_spacing: 8
 
 contact_settings:
-  form_action: 'https://formspree.io/your@email.com'
+  form_action: 'https://formspree.io/pmanikoth@ewu.edu'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  twitter_url: 'http://twitter.com/poukong'
+  instagram_url: 'http://instagram.com/poukong'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
